@@ -1,0 +1,60 @@
+# Philip Bailey – Walking on the Chinese Wall
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.28] Walking on the Chinese
+[00:03.47] Walking on the Chinese Wall
+[00:16.97] 
+[00:10.12] Watching for the coins to
+[00:14.83] Watching for the coins to fall
+[00:29.83] 
+[00:43.48] Butterfly, spread your painted wings
+[00:52.36] For an answer from the Ching
+[00:58.54] By the stream, stretching in the rocks
+[01:01.16] Tiger on the mountaintop
+[01:13.16] 
+[01:08.42] Walking on the Chinese Wall
+[01:20.27] Watching for the coins to fall
+[01:35.27] 
+[01:29.28] Now the sun is rising in the East
+[01:34.07] Looking for my golden fleece
+[01:39.56] Ivory skin, scarlet colour deep
+[01:45.64] Lips that burn but do not speak
+[02:01.14] 
+[01:50.94] (Three misty nights waiting by the shore)
+[01:55.81] It may be that my lover comes no more
+[02:00.98] (Red chamber dream from the sky above)
+[02:07.34] Ancient tales of hidden Chinese love
+[02:25.34] 
+[02:11.80] On the Chinese Wall
+[02:22.13] Watching for the coins to fall
+[02:37.13] 
+[02:31.19] Blue-red silk burning on my chest
+[02:44.51] Go to sleep but not to rest
+[02:50.37] Stepping stones on the yellow sea
+[02:56.25] Dreaming she'll be there for me
+[03:11.75] 
+[03:02.26] (Come down the clouds to the sea of flames)
+[03:07.22] From the mountain hear the cry of pain
+[03:12.65] (Red chamber dream from the sky above)
+[03:17.53] Ancient tales of hidden Chinese love
+[03:35.53] 
+[03:22.53] On the Chinese Wall
+[03:36.34] Watching for the coins to fall
+[03:44.00] On the Chinese Wall, oh yeah
+[03:54.31] Watching for the coins to fall
+[04:09.31] 
+[04:06.41] (On the Chinese Wall)
+[04:08.82] Butterfly, spread your wings
+[04:10.64] For an answer from the Ching
+[04:16.59] (Watching for the coins to fall)
+[04:19.69] Blue-red silk on my chest
+[04:22.17] Go to sleep but not to rest
+[04:25.36] Oh, no
+[04:28.36] 
+[04:28.20] Walking on the Chinese Wall
+[04:31.93] (Walking on the Chinese, walking on the Chinese wall)
+[04:33.65] Watching for the coins to fall
+[04:41.37] (Watching for the coins to, watching for the coins to fall)
+```
