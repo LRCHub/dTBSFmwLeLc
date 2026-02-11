@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Walking on the Chinese Wall",
+  "base_artist": "Philip Bailey",
+  "createdAt": "2026-02-11T13:34:24.579647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Walking On The Chinese Wall",
+      "artist": "Philip Bailey",
+      "has_synced": true,
+      "path": "select/01_Walking_On_The_Chinese_Wall_Philip_Bailey.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Walking On The Chinese Wall",
+      "artist": "Philip Bailey",
+      "has_synced": false,
+      "path": "select/02_Walking_On_The_Chinese_Wall_Philip_Bailey.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Walking On The Chinese Wall",
+      "artist": "Philip Bailey",
+      "has_synced": true,
+      "path": "select/03_Walking_On_The_Chinese_Wall_Philip_Bailey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Walking On The Chinese Wall",
+      "artist": "Philip Bayley",
+      "has_synced": true,
+      "path": "select/04_Walking_On_The_Chinese_Wall_Philip_Bayley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "walking on the chinese wall",
+      "artist": "Phillip Bailey",
+      "has_synced": false,
+      "path": "select/05_walking_on_the_chinese_wall_Phillip_Bailey.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Walking On The Chinese Wall",
+      "artist": "Philip Bailey",
+      "has_synced": true,
+      "path": "select/06_Walking_On_The_Chinese_Wall_Philip_Bailey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Walking on the Chinese Wall",
+      "artist": "Double You",
+      "has_synced": false,
+      "path": "select/07_Walking_on_the_Chinese_Wall_Double_You.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Walking on the Chinese Wall",
+      "artist": "Philip Bailey",
+      "has_synced": true,
+      "path": "select/08_Walking_on_the_Chinese_Wall_Philip_Bailey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Walking On the Chinese Wall",
+      "artist": "Philip Bailey",
+      "has_synced": false,
+      "path": "select/pl_01_Walking_On_the_Chinese_Wall_Philip_Bailey.txt"
+    }
+  ]
+}
